@@ -1,0 +1,25 @@
+{
+  "name": "infracciones",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/agorreca/infracciones.git"
+  },
+  "keywords": [
+    "infracciones",
+    "transito",
+    "buenos",
+    "aires"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agorreca/infracciones/issues"
+  },
+  "homepage": "https://github.com/agorreca/infracciones#readme"
+}
